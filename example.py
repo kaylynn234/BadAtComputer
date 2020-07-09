@@ -1,9 +1,3 @@
-### BadAtComputer
-A python something that lets everybody be bad at computer.
-
-## Usage
-Import badatcomputer and watch everything go wrong.
-```python
 import badatcomputer
 import time
 
@@ -26,6 +20,3 @@ while True:
     print(i)
     i += 1
     time.sleep(.5)
-
-```
-As you would expect, the code runs fine and nothing happens.
